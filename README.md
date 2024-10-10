@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @finnyyyboy!
-- 👀 I’m interested in Python, JavaScript, Star Trek, animal rescue, and queer and disability rights.
+- 👋 Hi, I’m Finnegan Mikeal!
+- 👀 I’m interested in Python, Machine Learning Engineering, Star Trek, animal rescue, and queer and disability rights.
 - 🌱 I’m currently learning data analytics with BloomTech Institute.
 - 💞️ I’m looking to find a full time data analyst job position.
 - 📫 How to reach me: finn@mikeal.org
